@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3+TdTomQDW1wsdx5DjJB1C8bbup3RmRr/VmVaOZmp4xKt3xhkgj/wE9ZcuB+Qewcng8S7rRhcVXXiuhCZna0oQ==",
+  "success": true,
+  "projectFilePath": "D:\\SISZARP NAUKA\\ShoppingApp\\ShoppingApp\\ShoppingApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dev-everest:4000/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
