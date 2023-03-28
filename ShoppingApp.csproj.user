@@ -21,5 +21,8 @@
     <Page Update="Styles\Buttons.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Styles\Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
 </Project>
