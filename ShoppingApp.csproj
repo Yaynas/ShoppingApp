@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ShoppingApp.Core\ShoppingApp.Core.csproj" />
+    <ProjectReference Include="..\ShoppingApp.Database\ShoppingApp.Database.csproj" />
   </ItemGroup>
 
 </Project>
