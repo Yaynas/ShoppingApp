@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "smWEuZVUVsAMkk/1FSZ6uja9lciKtB6gHY/PIasW4K5OhW1XXdQKBtHPstNmm/2U8CLx5dWGCvOx0Xbvih4WiA==",
+  "dgSpecHash": "9A035BPp3BYNgVUoz5/TN60KvQx2DiR6KbXbQEIQzpIU3Pn21wclnfSzFi7Mw9rGQAo351DHcekvV2PectblWQ==",
   "success": true,
   "projectFilePath": "D:\\SISZARP NAUKA\\ShoppingApp\\ShoppingApp\\ShoppingApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kjanas\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
     "C:\\Users\\kjanas\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
     "C:\\Users\\kjanas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",
     "C:\\Users\\kjanas\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.4\\microsoft.entityframeworkcore.analyzers.7.0.4.nupkg.sha512",
@@ -15,6 +16,7 @@
     "C:\\Users\\kjanas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\kjanas\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\kjanas\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\kjanas\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
     "C:\\Users\\kjanas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": [

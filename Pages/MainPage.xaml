@@ -21,7 +21,15 @@
                 <RowDefinition Height="*"></RowDefinition>
                 <RowDefinition Height="7*"></RowDefinition>
             </Grid.RowDefinitions>
-            <Grid Height="15">
+            <TextBlock Grid.Row="0" 
+                       Grid.Column="0"                       
+                       Text="Shopping App" 
+                       FontSize="25" 
+                       FontWeight="Bold" 
+                       HorizontalAlignment="Center" 
+                       VerticalAlignment="Center" 
+                       FontFamily="Arial"></TextBlock>
+            <Grid Height="15" Margin="178,3,4,75" Grid.ColumnSpan="2">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"></ColumnDefinition>
                     <ColumnDefinition Width="20"></ColumnDefinition>
@@ -30,14 +38,29 @@
                 <Button Grid.Column="1" 
                             Content="-"
                             FontSize="6"
-                            FontWeight="Bold" Style="{DynamicResource DefaultButton}">
+                            FontWeight="Bold" 
+                            Style="{DynamicResource DefaultButton}"
+                            Command="{Binding MinimizeApp}">
                 </Button>
                 <Button Grid.Column="2" 
                             Content="X"
                             FontSize="6"
-                            FontWeight="Bold" Style="{DynamicResource DefaultButton}">
-    
+                            FontWeight="Bold" 
+                            Style="{DynamicResource DefaultButton}"
+                            Command="{Binding CloseApp}">
+
                 </Button>
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                
             </Grid>
         </Grid>
     </Border>

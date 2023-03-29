@@ -1,5 +1,6 @@
 ﻿using System.Windows;
 using System.Windows.Input;
+using ShoppingApp.Core;
 
 namespace ShoppingApp
 {
@@ -12,6 +13,11 @@ namespace ShoppingApp
         private void Window_MouseDown(object sender, MouseButtonEventArgs e)
         {
             this.DragMove();
+        }
+
+        public void MinimizeApplicationMainWindow()
+        {
+            WindowState = WindowState.Minimized;
         }
     }
 }
