@@ -21,6 +21,7 @@ namespace ShoppingApp
             this.DragMove();
         }
 
+<<<<<<< Updated upstream
 
         public void CloseApplication()
         {
@@ -28,6 +29,9 @@ namespace ShoppingApp
         }
 
         public void MinimalizeApplication()
+=======
+        public void MinimalizeApplicationMainWindow()
+>>>>>>> Stashed changes
         {
             WindowState = WindowState.Minimized;
         }

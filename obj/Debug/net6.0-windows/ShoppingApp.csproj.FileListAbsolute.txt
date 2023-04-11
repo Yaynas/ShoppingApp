@@ -38,3 +38,6 @@ D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Styles\Buttons
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\App.baml
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Styles\Window.baml
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\bin\Debug\net6.0-windows\PropertyChanged.dll
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Pages\AddEditDelete.g.cs
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Pages\AddEditDelete.baml

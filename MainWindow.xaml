@@ -73,6 +73,11 @@
                         Style="{DynamicResource GridButton}"></Button>
 
             </Grid>
+            <ContentControl
+                Grid.Row="1"
+                Grid.Column="1">
+                <local:AddEditDelete></local:AddEditDelete>
+            </ContentControl>
         </Grid>
     </Border>
 </Window>

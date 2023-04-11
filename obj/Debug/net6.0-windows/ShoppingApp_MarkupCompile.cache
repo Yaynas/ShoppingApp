@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\App.xaml
-3-221747379
+4-26066667
 
-3-1233169557
+4141060075
 2071191739117
-MainWindow.xaml;Styles\Buttons.xaml;Styles\Window.xaml;
+MainWindow.xaml;Pages\AddEditDelete.xaml;Styles\Buttons.xaml;Styles\Window.xaml;
 
 False
 
