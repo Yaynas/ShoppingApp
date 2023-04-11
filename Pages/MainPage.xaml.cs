@@ -18,8 +18,6 @@ namespace ShoppingApp
             _mainWindowInstance = (MainWindow)Application.Current.MainWindow;
         }
 
-
-
         public void CloseApplication()
         {
             App.Current.Shutdown();

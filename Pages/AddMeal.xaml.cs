@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace ShoppingApp
 {
     /// <summary>
-    /// Interaction logic for AddEditDelete.xaml
+    /// Interaction logic for AddMeal.xaml
     /// </summary>
-    public partial class AddEditDelete : UserControl
+    public partial class AddMeal : UserControl
     {
-        public AddEditDelete()
+        public AddMeal()
         {
             InitializeComponent();
         }

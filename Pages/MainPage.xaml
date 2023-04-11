@@ -70,8 +70,12 @@
                 <Button Grid.Row="3"
                         Content="Check and Generate List"
                         Style="{DynamicResource GridButton}"></Button>
-
             </Grid>
+            <ContentControl
+                Grid.Row="1"
+                Grid.Column="1">
+                <local:AddMeal/>
+            </ContentControl>
         </Grid>
     </Border>
 </Page>
