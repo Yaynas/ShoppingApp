@@ -43,3 +43,9 @@ D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\refint\Shoppin
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\ShoppingApp.pdb
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\ShoppingApp.genruntimeconfig.cache
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\ref\ShoppingApp.dll
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Pages\EditDeleteMeal.g.cs
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Pages\EditDeleteMeal.baml
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Pages\CreateList.g.cs
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Pages\CreateList.baml
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Pages\CheckAndGenerateList.g.cs
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Pages\CheckAndGenerateList.baml

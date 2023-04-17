@@ -10,12 +10,30 @@
     <Compile Update="Pages\AddMeal.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Pages\CheckAndGenerateList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\CreateList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\EditDeleteMeal.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pages\AddMeal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\CheckAndGenerateList.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\CreateList.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\EditDeleteMeal.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Styles\Buttons.xaml">
