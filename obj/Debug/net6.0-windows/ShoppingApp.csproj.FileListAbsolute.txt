@@ -19,7 +19,6 @@ D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\bin\Debug\net6.0-windows\ShoppingApp.Da
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\bin\Debug\net6.0-windows\ShoppingApp.Core.pdb
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\bin\Debug\net6.0-windows\ShoppingApp.Database.pdb
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\ShoppingApp.csproj.AssemblyReference.cache
-D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Styles\Window.baml
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\MainWindow.g.cs
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Pages\AddMeal.g.cs
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Pages\MainPage.g.cs
