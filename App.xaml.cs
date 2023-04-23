@@ -5,10 +5,22 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using ShoppingApp.Database;
+using ShoppingApp.Core;
 
 namespace ShoppingApp
 {
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+
+            var database = new ShoppingListDBContext();
+
+            database.Database.EnsureCreated();
+
+            DatabaseCreationTool.MyDatabase = database;
+        }
     }
 }

@@ -7,13 +7,9 @@
              mc:Ignorable="d" >
     <StackPanel Width="916" Height="656" Background="Transparent">
         <!--name of the meal-->
-        <ComboBox IsEditable="True" IsReadOnly="False" Width="750" Margin="0,15,100,15">
-            <ComboBoxItem>1</ComboBoxItem>
-            <ComboBoxItem>2</ComboBoxItem>
-            <ComboBoxItem>3</ComboBoxItem>
-        </ComboBox>
+        <local:Meal Width="750" Margin="0,15,100,15"></local:Meal>
         <!--ingredients-->
-        <Border BorderBrush="Black" BorderThickness="2" Height="530" Margin="10,10,10,10">
+        <Border BorderBrush="Black" BorderThickness="2" Height="530" Margin="10,10,10,10" >
             <ScrollViewer>
                 <Grid>
                     <Grid.RowDefinitions>
