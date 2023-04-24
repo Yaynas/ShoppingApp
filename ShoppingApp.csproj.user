@@ -7,7 +7,13 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Controls\Meal.xaml.cs">
+    <Compile Update="Controls\MealName.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\MealRecipe.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\MealType.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Pages\AddMeal.xaml.cs">
@@ -24,7 +30,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Controls\Meal.xaml">
+    <Page Update="Controls\MealName.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\MealRecipe.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\MealType.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">

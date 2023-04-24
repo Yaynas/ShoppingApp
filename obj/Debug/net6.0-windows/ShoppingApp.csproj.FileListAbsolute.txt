@@ -82,5 +82,9 @@ D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\bin\Debug\net6.0-windows\runtimes\win-a
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Controls\Meal.g.cs
-D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Controls\Meal.baml
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Controls\MealName.g.cs
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Controls\MealName.baml
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Controls\MealRecipe.g.cs
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Controls\MealType.g.cs
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Controls\MealRecipe.baml
+D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\obj\Debug\net6.0-windows\Controls\MealType.baml

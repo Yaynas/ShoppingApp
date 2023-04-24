@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\SISZARP NAUKA\ShoppingApp\ShoppingApp\App.xaml
-8-766970053
+10-1283180624
 
-11-1229825131
+1398063645
 2151244190772
-Controls\Meal.xaml;MainWindow.xaml;Pages\AddMeal.xaml;Pages\CheckAndGenerateList.xaml;Pages\CreateList.xaml;Pages\EditDeleteMeal.xaml;Pages\MainPage.xaml;Styles\Buttons.xaml;
+Controls\MealName.xaml;Controls\MealRecipe.xaml;Controls\MealType.xaml;MainWindow.xaml;Pages\AddMeal.xaml;Pages\CheckAndGenerateList.xaml;Pages\CreateList.xaml;Pages\EditDeleteMeal.xaml;Pages\MainPage.xaml;Styles\Buttons.xaml;
 
 True
 
