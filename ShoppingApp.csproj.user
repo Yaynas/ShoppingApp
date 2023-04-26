@@ -28,6 +28,9 @@
     <Compile Update="Pages\EditDeleteMeal.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Pages\IngerientCreation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="Controls\MealName.xaml">
@@ -52,6 +55,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pages\EditDeleteMeal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\IngerientCreation.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Styles\Buttons.xaml">
